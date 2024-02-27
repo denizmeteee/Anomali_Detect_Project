@@ -1,0 +1,1 @@
+I wrote this code with the intention of self-improvement and learning in the realm of machine learning. The objective of this project is to construct a machine learning model that learns from historical weather data. This model then utilizes this knowledge to predict if future weather will be anomalous and, if so, the extent of the anomaly.
